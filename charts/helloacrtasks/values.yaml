@@ -1,0 +1,16 @@
+# Default values for azure-vote-front.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicaCount: 1
+backendName: helloacrtasks-master
+
+image:
+  repository: aappweuacroh7rkwx7k34t7.azurecr.io/helloacrtasks
+  pullPolicy: IfNotPresent
+  tag: "v1"
+...
+service:
+  type: LoadBalancer
+  port: 80
+...
