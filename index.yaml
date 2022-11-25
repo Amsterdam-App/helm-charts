@@ -3,6 +3,16 @@ entries:
   helloacrtasks:
   - apiVersion: v2
     appVersion: v1
+    created: "2022-11-25T11:21:22.312996343Z"
+    description: A Helm chart for Kubernetes
+    digest: 04cd7a5170defbe1dc700c4b9f9e51174d44e6ae8406671fd006ebc575c8a4bf
+    name: helloacrtasks
+    type: application
+    urls:
+    - https://github.com/Amsterdam-App/helm-charts/releases/download/helloacrtasks-0.1.5/helloacrtasks-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: v1
     created: "2022-11-25T09:23:40.526772027Z"
     description: A Helm chart for Kubernetes
     digest: dfa569f5f9564adb59f56533678e8e5b499f4dcaedfc43a5d6aff606396e3261
