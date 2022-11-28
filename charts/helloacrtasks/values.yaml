@@ -14,6 +14,8 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 
+existingSecret: null # Refer to existing secret to avoid managing secrets through Helm
+
 service:
   type: LoadBalancer
   port: 80
