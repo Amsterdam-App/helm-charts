@@ -6,7 +6,7 @@ replicaCount: 1
 backendName: helloacrtasks-master
 
 image:
-  repository: aappweuacroh7rkwx7k34t7.azurecr.io/helloacrtasks
+  repository: aapp/helloacrtasks
   pullPolicy: IfNotPresent
   tag: ""
 
