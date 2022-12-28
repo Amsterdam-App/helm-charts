@@ -91,4 +91,15 @@ entries:
     urls:
     - https://amsterdam-app.github.io/helm-charts/helloacrtasks-0.1.3.tgz
     version: 0.1.3
+  irma:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-28T12:50:35.130155386Z"
+    description: A Helm chart for Kubernetes
+    digest: d915fbfea3146f854f7b945ad2b74577e0e229ce239636081702e3587e267af1
+    name: irma
+    type: application
+    urls:
+    - https://github.com/Amsterdam-App/helm-charts/releases/download/irma-0.1.0/irma-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-11-25T10:13:41.198083336+01:00"
