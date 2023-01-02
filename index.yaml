@@ -94,6 +94,16 @@ entries:
   irma:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-01-02T07:24:36.86917922Z"
+    description: A Helm chart for Kubernetes
+    digest: 1252a539d56e2c5bfaefc572a9c46c9239c608323d8167ee33ba99a2a903dfc3
+    name: irma
+    type: application
+    urls:
+    - https://github.com/Amsterdam-App/helm-charts/releases/download/irma-1.0.1/irma-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-28T12:50:35.130155386Z"
     description: A Helm chart for Kubernetes
     digest: d915fbfea3146f854f7b945ad2b74577e0e229ce239636081702e3587e267af1
